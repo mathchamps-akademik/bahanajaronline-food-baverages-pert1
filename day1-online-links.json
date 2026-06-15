@@ -1,0 +1,20 @@
+{
+  "package": "Math Champs F&B Online - Pertemuan 1 Template Style, no Kalananti logo, spin wheel fixed",
+  "entrypoint": "index.html",
+  "note": "Upload isi folder ini ke GitHub Pages. Link antar halaman memakai path relatif. Form test tetap memakai Supabase backend untuk menyimpan hasil.",
+  "files": {
+    "hub": "index.html",
+    "teacherDeckHtml": "teacher-deck-day1-online.html",
+    "teacherDeckPdf": "math-champs-fnb-online-day1-teacher-deck.pdf",
+    "spinWheel": "spin-wheel-day1.html",
+    "preTestOnline": "pre-test-day1.html",
+    "postTestOnline": "post-test-day1.html",
+    "resultsSpreadsheet": "results-spreadsheet-day1.html",
+    "answerKey": "answer-key-day1.html",
+    "preTestPdf": "pre-test-day1-questions.pdf",
+    "postTestPdf": "post-test-day1-questions.pdf",
+    "githubStylePreTest": "Pre-Post/math/pre-mathpreneur-fnb-online-t1.html",
+    "githubStylePostTest": "Pre-Post/math/post-mathpreneur-fnb-online-t1.html",
+    "githubStyleResults": "Pre-Post/math/results-mathpreneur-fnb-online-t1.html"
+  }
+}
